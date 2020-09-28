@@ -1,4 +1,6 @@
-#Music player vanilla js
+# Music player vanilla js
+
+
 Open the file `index.html` in your browser
 
 
